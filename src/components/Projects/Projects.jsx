@@ -25,9 +25,9 @@ import jumpstart from '../images/jumpstart.png';
 const webItem = [
   {
     link: 'https://www.frontenddev.site/',
-    title: 'Frontend Dev',
-    techStack: 'Useful repo for most common frontend challenges',
-    desc: 'Technology used: React Js, Mantine UI, Context API',
+    title: 'Pizza Time',
+    techStack: 'Technology used: React Js, Leaflet Maps API, Context API, UUID, Turso, Express Js',
+    desc: ,
     image: frontenddev,
     color: '#E5E483',
     githubLink: 'https://github.com/mittalsam98/frontenddev'
