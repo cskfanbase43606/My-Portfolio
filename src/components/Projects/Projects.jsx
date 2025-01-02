@@ -17,20 +17,20 @@ import courseApp from '../images/courseApp.png';
 import chatGPT from '../images/chatGPT.png';
 import challenges from '../images/frontend-challenges.png';
 import github from '../images/github.png';
-import frontenddev from '../images/frontenddev.png';
+import pizzatime from '../images/pizzatime.png';
 import solanaaid from '../images/solanaaid.png';
 import jumpstart from '../images/jumpstart.png';
 
 // Web projects
 const webItem = [
   {
-    link: 'https://www.frontenddev.site/',
+    link: 'https://pizza-time-with-react-rana.vercel.app/',
     title: 'Pizza Time',
     techStack: 'Technology used: React Js, Leaflet Maps API, Context API, UUID, Turso, Express Js',
-    desc: ,
-    image: frontenddev,
+    desc: 'Pizza Time is an e-commerce pizza delivery platform for a restaurant featuring an interactive menu with variety of opitons' ,
+    image: pizzatime,
     color: '#E5E483',
-    githubLink: 'https://github.com/mittalsam98/frontenddev'
+    //githubLink: ''
   },
   {
     link: 'https://www.profilee.info/',
