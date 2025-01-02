@@ -30,7 +30,7 @@ const webItem = [
     desc: 'Pizza Time is an e-commerce pizza delivery platform for a restaurant featuring an interactive menu with variety of opitons' ,
     image: pizzatime,
     color: '#E5E483',
-    //githubLink: ''
+    githubLink: 'https://github.com/cskfanbase43606/pizza-time-with-react/tree/main/my-project'
   },
   {
     link: 'https://www.profilee.info/',
