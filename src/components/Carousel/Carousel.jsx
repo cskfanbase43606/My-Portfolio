@@ -27,7 +27,7 @@ export default function CarouselImage() {
         <div>
           <img className={classes.image} src={Hello} alt='myImage' />
           <div className={classes.h1}>
-            I'm Sachin
+            I'm Rahul
             <motion.h1
               initial={{ scale: 1 }}
               animate={{ scale: [1, 1.2, 1] }} // Define the scale values for the bouncing effect
