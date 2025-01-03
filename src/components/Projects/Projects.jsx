@@ -36,9 +36,9 @@ const webItem = [
     link: 'https://kodecraft-rana.vercel.app/,
     title: 'KodeCraft Solutions',
     techStack: 'Tech Stack: Next JS, Tailwind',
-    desc: 'KodeCraft Solutions is a software solutions comapny providing business solutions through its cutting edge apps,
+    desc: 'KodeCraft Solutions is a software solutions comapny providing business solutions through its cutting edge apps',
     image: kodecraft,
-    color: '#0FFFFF',
+    color: '#0FFFFF'
     //githubLink: 'https://github.com/mittalsam98/profilee'
   },
   {
