@@ -159,12 +159,7 @@ export default function Projects() {
           return getProjectCard(item);
         })}
       </ul>
-      <h2 className={classes.heading}>ANDROID APP PROJECTS</h2>
-      <ul className={classes.cards}>
-        {androidAppItems.map((item) => {
-          return getProjectCard(item);
-        })}
-      </ul>
+      
       {/* </ScrollAnimation> */}
     </div>
   );
