@@ -12,7 +12,7 @@ import definition from '../images/definition.png';
 import memes from '../images/memes.png';
 import superhero from '../images/superhero.png';
 import monorepo from '../images/monorepo.png';
-import profilee from '../images/profilee.png';
+import kodecraft from '../images/kodecraft.png';
 import courseApp from '../images/courseApp.png';
 import chatGPT from '../images/chatGPT.png';
 import challenges from '../images/frontend-challenges.png';
@@ -33,13 +33,13 @@ const webItem = [
     githubLink: 'https://github.com/cskfanbase43606/pizza-time-with-react/tree/main/my-project'
   },
   {
-    link: 'https://www.profilee.info/',
-    title: 'Profilee - An OS link in bio',
-    techStack: 'Tech Stack: Next JS, Tailwind, Typescript, Prisma, AWS S3',
-    desc: 'Profilee is an open source profile link bio page builder',
-    image: profilee,
+    link: 'https://kodecraft-rana.vercel.app/,
+    title: 'KodeCraft Solutions',
+    techStack: 'Tech Stack: Next JS, Tailwind',
+    desc: 'KodeCraft Solutions is a software solutions comapny providing business solutions through its cutting edge apps,
+    image: kodecraft,
     color: '#0FFFFF',
-    githubLink: 'https://github.com/mittalsam98/profilee'
+    //githubLink: 'https://github.com/mittalsam98/profilee'
   },
   {
     link: 'https://www.saasjumpstart.live/',
