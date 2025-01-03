@@ -33,7 +33,7 @@ const webItem = [
     githubLink: 'https://github.com/cskfanbase43606/pizza-time-with-react/tree/main/my-project'
   },
   {
-    link: 'https://kodecraft-rana.vercel.app/,
+    link: 'https://kodecraft-rana.vercel.app/',
     title: 'KodeCraft Solutions',
     techStack: 'Tech Stack: Next JS, Tailwind',
     desc: 'KodeCraft Solutions is a software solutions comapny providing business solutions through its cutting edge apps',
