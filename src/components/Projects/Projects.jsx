@@ -121,38 +121,6 @@ const webItem = [
   }
 ];
 
-const androidAppItems = [
-  {
-    link: 'https://play.google.com/store/apps/details?id=com.thesachin.your_dictionary',
-    title: 'Definition Finder',
-    techStack: 'Tech Stack: Flutter',
-    desc: 'Definition Finder is absolutely free online dictionary with every word you look up. Millions of definitions from the most trusted source.',
-    image: definition,
-    color: '#CBD18F',
-    githubLink:
-      'https://github.com/mittalsam98?tab=repositories&q=&type=&language=dart&sort=stargazers'
-  },
-  {
-    link: 'https://play.google.com/store/apps/details?id=com.thesachin.superheroes',
-    title: 'My Superhero',
-    techStack: 'Tech Stack- Flutter',
-    desc: 'My SuperHero app provides all SuperHeroes and Villians data like powerstats, full name from all the universes.',
-    image: superhero,
-    color: '#d0f4de',
-    githubLink: 'https://github.com/mittalsam98/super_hero_app'
-  },
-  {
-    link: 'https://play.google.com/store/apps/details?id=com.thesachin.memestemplate',
-    title: 'Indian Memes Templates',
-    techStack: 'Tech Stack- Flutter',
-    desc: ' Indian meme templates - Memeशाला contains a wide range of Indian meme templates including Bollywood, political, Indian shows. You can edit and create memes too.',
-    image: memes,
-    color: '#e9c46a',
-    githubLink:
-      'https://github.com/mittalsam98?tab=repositories&q=&type=&language=dart&sort=stargazers'
-  }
-];
-
 export default function Projects() {
   const getProjectCard = (cardItem) => {
     return (
