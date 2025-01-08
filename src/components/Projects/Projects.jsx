@@ -42,13 +42,12 @@ const webItem = [
     //githubLink: 'https://github.com/mittalsam98/profilee'
   },
   {
-    link: 'https://www.saasjumpstart.live/',
-    title: 'Sass Boilerplate',
-    techStack:
-      'Technology used: Typescript, Nextjs, Prisma, Tailwind CSS, AWS S3, React Drag and Drop, Zod',
-    desc: 'Next.js boilerplate setup for the repetitive work. It comes with authentication with email verification, stripe payment integration, customizable components, email preview, and much more.',
+    link: 'https://xbeat-rana.vercel.app/',
+    title: 'XBeat App',
+    techStack: 'Technology used: Javascript, Reactjs, Prisma, SASS, Context API',
+    desc: 'Audio Store eCommerce Website, built with React JS, state management using Context API.',
     image: jumpstart,
-    color: '#D2E0FB'
+    color: '#FEA1A1'
     // githubLink: 'https://github.com/mittalsam98'
   },
   {
