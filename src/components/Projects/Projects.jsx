@@ -19,7 +19,7 @@ import challenges from '../images/frontend-challenges.png';
 import github from '../images/github.png';
 import pizzatime from '../images/pizzatime.png';
 import solanaaid from '../images/solanaaid.png';
-import jumpstart from '../images/jumpstart.png';
+import xbeat from '../images/xbeat.png';
 
 // Web projects
 const webItem = [
@@ -46,7 +46,7 @@ const webItem = [
     title: 'XBeat App',
     techStack: 'Technology used: Javascript, Reactjs, Prisma, SASS, Context API',
     desc: 'Audio Store eCommerce Website, built with React JS, state management using Context API.',
-    image: jumpstart,
+    image: xbeat,
     color: '#FEA1A1'
     // githubLink: 'https://github.com/mittalsam98'
   },
