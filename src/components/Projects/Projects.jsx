@@ -58,64 +58,6 @@ const webItem = [
     image: flipkart,
     color: '#D2E0FB',
     //githubLink: ''
-  },
-  {
-    link: 'https://solanaaid.now.sh/',
-    title: 'Solana Aid',
-    techStack: 'Tech Stack- Web3, React Js, Tailwind',
-    desc: 'Solana web tools',
-    image: solanaaid,
-    color: '#f3e4f1',
-    githubLink: 'https://github.com/mittalsam98/solanaaid'
-  },
-  {
-    link: 'https://www.youtube.com/watch?v=Dlxz9RnltMA&ab_channel=SachinMittal',
-    title: 'E-Commerce app',
-    techStack: 'Tech Stack: Monorepo, Typescript, MERN',
-    desc: 'It is a e-commerce app built in a MERN stack using Monorepo. This is 100% typescript.',
-    image: monorepo,
-    color: '#FEA1A1',
-    githubLink: 'https://github.com/mittalsam98/E-commerce-app'
-  },
-  {
-    link: 'https://courses-portal.netlify.app/',
-    title: 'Course Selling App',
-    techStack: 'Tech Stack: React JS, Tailwind CSS, Node JS, MongoDB, Razorpay for payments',
-    desc: 'Separate User and Admin panels, User can purchase courses',
-    image: courseApp,
-    color: '#C1A4AA',
-    githubLink: 'https://github.com/mittalsam98/Course-Selling-App'
-  },
-
-  {
-    link: 'https://travel-log-frontend-two.vercel.app/',
-    title: 'Travel Log',
-    techStack: 'Tech Stack- MERN Stack, Mapbox',
-    desc: 'A full stack application to store / list places you have visited. You can log every visit on map.',
-    image: travel,
-    color: '#EEA47F',
-    githubLink:
-      'https://github.com/mittalsam98?tab=repositories&q=travel&type=&language=javascript&sort=stargazers'
-  },
-  {
-    link: 'https://chit-chat-gpt-app.vercel.app/',
-    title: 'ChatGPT clone',
-    techStack:
-      'Tech Stack: Next.js 13, Tailwind CSS, Prisma, ZOD for validation, Recoil for state managements, TypeScript, OpenAI',
-    desc: 'Chat GPT clone with signup and signin, previous chat save functionality',
-    image: chatGPT,
-    color: '#FFA6C9',
-    githubLink: 'https://github.com/mittalsam98/chat-gpt-clone'
-  },
-  {
-    link: 'https://bookheap-app.netlify.app/',
-    title: 'Online Book Store',
-    techStack: 'Tech Stack: MERN Stack',
-    desc: 'It is a book selling web app built in a MERN stack . You can sell books by uploading images and can also see what others are selling.',
-    image: bookheap,
-    color: '#f3e4f1',
-    githubLink:
-      'https://github.com/mittalsam98?tab=repositories&q=bookheap&type=&language=javascript&sort=stargazers'
   }
 ];
 
