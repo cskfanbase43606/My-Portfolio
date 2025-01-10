@@ -5,7 +5,7 @@ import Tilt from 'react-parallax-tilt';
 
 import classes from './Projects.module.css';
 import bookheap from '../images/bookheap.png';
-import chess from '../images/chess.png';
+import flipkart from '../images/flipkart.png';
 import shopping from '../images/shopping-app.png';
 import travel from '../images/travel-log.png';
 import definition from '../images/definition.png';
@@ -55,7 +55,7 @@ const webItem = [
     title: 'Flipkart Clone',
     techStack: 'HTML, CSS, Javascript',
     desc: 'Frontend clone version of the flipkart e-commerce web-app',
-    image: chess,
+    image: flipkart,
     color: '#D2E0FB',
     //githubLink: ''
   },
