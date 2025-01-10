@@ -18,14 +18,14 @@ class About extends Component {
         <h2 className={classes.heading}>Who Am I?</h2>
         <div className={classes.About}>
           <p>
-            Hi! My name is <b>SACHIN MITTAL</b>. I am a passionate developer having experience in{' '}
-            <b>Frontend development</b> & <b>Mobile App development </b>  complemented by backend expertise and I am much interested in developing new things
-            which excite me a lot. :)
+            Hi! My name is <b>RAHUL RANA</b>. I am a passionate web developer having knowledge of{' '}
+            <b>Frontend development</b>  and I am much interested in developing new things
+            which excites me a lot. :)
           </p>
           <p className={classes.br}>
             I love exploring new technologies and being a practitioner, I like to stay on top of
             latest trends. I try to leave every line of code I write more readable, accessible, and
-            modular. My problem-solving mindset and active GitHub profile showcase my commitment to
+            modular. My problem-solving mindset showcases my commitment to
             innovative and collaborative coding.
           </p>
         </div>
