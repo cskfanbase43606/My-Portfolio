@@ -48,17 +48,16 @@ const webItem = [
     desc: 'Audio Store eCommerce Website, built with React JS, state management using Context API.',
     image: xbeat,
     color: '#FEA1A1'
-    // githubLink: 'https://github.com/mittalsam98'
+    // githubLink: ''
   },
   {
-    link: 'https://chess-web-online.netlify.app/',
-    title: 'Realtime Online Chess',
-    techStack: 'Tech Stack- ReactJs, NodeJS, Express, Socket.io.',
-    desc: 'Play real time chess with your friends online by sharing a link.',
+    link: 'https://flipkart-clone-rana-app.vercel.app/',
+    title: 'Flipkart Clone',
+    techStack: 'HTML, CSS, Javascript',
+    desc: 'Frontend clone version of the flipkart e-commerce web-app',
     image: chess,
-    color: '#d5ebda',
-    githubLink:
-      'https://github.com/mittalsam98?tab=repositories&q=chess&type=&language=javascript&sort=stargazers'
+    color: '#D2E0FB',
+    //githubLink: ''
   },
   {
     link: 'https://solanaaid.now.sh/',
