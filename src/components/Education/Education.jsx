@@ -81,11 +81,11 @@ class Education extends Component {
                     </div>
                     <div className={classes.label}>
                       <h2>
-                        Undergraduation at SLIET <span>2017-2021</span>
+                        Undergraduation from  MIT,Manipal <span>2017-2021</span>
                       </h2>
                       <div className={classes.description}>
-                        I completed my undergraduation in CSE (Computer Science and Engineering)
-                        from <a href='http://sliet.ac.in/'>SLIET</a> with overall 82.71%.
+                        I have completed my undergraduation in IE (Industial Engineering)
+                        from <a href='http://sliet.ac.in/'>MIT(Manipal)</a> with overall 82.71%.
                       </div >
                     </div>
                   </article>
