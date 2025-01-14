@@ -128,7 +128,7 @@ export default function Sidebar() {
       </div>
       <button
         onClick={() => {
-          window.open('');
+          //window.open('');
         }}
         className='templateTextBtn'
       >
