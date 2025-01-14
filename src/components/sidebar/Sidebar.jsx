@@ -128,11 +128,11 @@ export default function Sidebar() {
       </div>
       <button
         onClick={() => {
-          window.open('https://github.com/mittalsam98/react-portfolio', '_blank');
+          window.open('');
         }}
         className='templateTextBtn'
       >
-        Use this template
+        RAHUL RANA
       </button>
     </div>
   );
