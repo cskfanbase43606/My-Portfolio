@@ -49,7 +49,7 @@ class Education extends Component {
                       </h2>
                       <div className={classes.description}>
                         I have completed my undergraduation in IE (Industial Engineering)
-                        from <a href='https://www.manipal.edu/mit.html'>MIT(Manipal)</a> with overall 82.71%.
+                        from <a href='https://www.manipal.edu/mit.html'>MIT(Manipal)</a> with overall 6.99 CGPA.
                       </div >
                     </div>
                   </article>
