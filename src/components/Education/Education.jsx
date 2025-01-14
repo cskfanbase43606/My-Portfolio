@@ -49,7 +49,7 @@ class Education extends Component {
                       </h2>
                       <div className={classes.description}>
                         I have completed my undergraduation in IE (Industial Engineering)
-                        from <a href='http://sliet.ac.in/'>MIT(Manipal)</a> with overall 82.71%.
+                        from <a href='https://www.manipal.edu/mit.html'>MIT(Manipal)</a> with overall 82.71%.
                       </div >
                     </div>
                   </article>
@@ -70,8 +70,8 @@ class Education extends Component {
                         Higher Education <span>2014-2016</span>
                       </h2>
                       <div className={classes.description}>
-                        I have completed my higher education from HKIS with major subjects as
-                        Physics,Chemistry & Maths with 85% merit in CBSE board.{' '}
+                        I have completed my higher education from DPS with major subjects as
+                        Physics,Chemistry & Maths with 59% merit in CBSE board.{' '}
                       </div>
                     </div>
                   </article>
