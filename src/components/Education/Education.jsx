@@ -90,7 +90,7 @@ class Education extends Component {
                     </div>
                     <div className={classes.label}>
                       <h2>Internship</h2>
-                      <div className={classes.description}>Completed 2 months Internship in React Js with Aeronspire Technology</div>
+                      <div className={classes.description}>Completed 2 months Internship in React Js with Aeronspire Technology.</div>
                     </div>
                     <div className={classes.timeline_entry_inner}>
                       <div className={classes.timeline_icon_3 || classes.color_none}></div>
