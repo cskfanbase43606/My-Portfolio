@@ -45,7 +45,7 @@ class Education extends Component {
                     </div>
                     <div className={classes.label}>
                       <h2>
-                        Undergraduation from  MIT,Manipal <span>2017-2021</span>
+                        Undergraduation from  MIT,Manipal <span></span>
                       </h2>
                       <div className={classes.description}>
                         I have completed my undergraduation in IE (Industial Engineering)
@@ -67,7 +67,7 @@ class Education extends Component {
                     </div>
                     <div className={classes.label}>
                       <h2>
-                        Higher Education <span>2014-2016</span>
+                        Higher Education <span></span>
                       </h2>
                       <div className={classes.description}>
                         I have completed my higher education from DPS with major subjects as
