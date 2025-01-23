@@ -5,8 +5,6 @@ import Tilt from 'react-parallax-tilt';
 
 import classes from './Projects.module.css';
 import bookheap from '../images/bookheap.png';
-import flipkart from '../images/flipkart.png';
-import shopping from '../images/shopping-app.png';
 import travel from '../images/travel-log.png';
 import definition from '../images/definition.png';
 import memes from '../images/memes.png';
@@ -14,7 +12,6 @@ import superhero from '../images/superhero.png';
 import monorepo from '../images/monorepo.png';
 import kodecraft from '../images/kodecraft.png';
 import courseApp from '../images/courseApp.png';
-import chatGPT from '../images/chatGPT.png';
 import challenges from '../images/frontend-challenges.png';
 import github from '../images/github.png';
 import pizzatime from '../images/pizzatime.png';
@@ -30,7 +27,7 @@ const webItem = [
     desc: 'Pizza Time is an e-commerce pizza delivery platform for a restaurant featuring an interactive menu with variety of opitons' ,
     image: pizzatime,
     color: '#E5E483',
-    githubLink: 'https://github.com/cskfanbase43606/pizza-time-with-react/tree/main/my-project'
+    //githubLink: 'https://github.com/cskfanbase43606/pizza-time-with-react/tree/main/my-project'
   },
   {
     link: 'https://kodecraft-rana.vercel.app/',
@@ -49,16 +46,8 @@ const webItem = [
     image: xbeat,
     color: '#FEA1A1'
     // githubLink: ''
-  },
-  {
-    link: 'https://flipkart-clone-rana-app.vercel.app/',
-    title: 'Flipkart Clone',
-    techStack: 'HTML, CSS, Javascript',
-    desc: 'Frontend clone version of the flipkart e-commerce web-app',
-    image: flipkart,
-    color: '#D2E0FB',
-    //githubLink: ''
   }
+  
 ];
 
 export default function Projects() {
