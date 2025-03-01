@@ -71,7 +71,7 @@ class Education extends Component {
                       </h2>
                       <div className={classes.description}>
                         I have completed my higher education from DPS with major subjects as
-                        Physics,Chemistry & Maths with 59% merit in CBSE board.{' '}
+                        Physics,Chemistry & Maths in CBSE board.{' '}
                       </div>
                     </div>
                   </article>
