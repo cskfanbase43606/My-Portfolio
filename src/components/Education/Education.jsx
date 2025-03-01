@@ -45,7 +45,7 @@ class Education extends Component {
                     </div>
                     <div className={classes.label}>
                       <h2>
-                        Undergraduation from  MIT,Manipal <span></span>
+                        Undergraduation from  MIT,Manipal(2023) <span></span>
                       </h2>
                       <div className={classes.description}>
                         I have completed my undergraduation in IE (Industial Engineering)
