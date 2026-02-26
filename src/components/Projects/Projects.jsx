@@ -17,6 +17,9 @@ import github from '../images/github.png';
 import pizzatime from '../images/pizzatime.png';
 import solanaaid from '../images/solanaaid.png';
 import xbeat from '../images/xbeat.png';
+import ranacart from '../images/ranacart.png';
+import campusexpress from '../images/campusexpress.png';
+
 
 // Web projects
 const webItem = [
@@ -45,6 +48,24 @@ const webItem = [
     desc: 'Audio Store eCommerce Website, built with React JS, state management using Context API.',
     image: xbeat,
     color: '#FEA1A1'
+    // githubLink: ''
+  },
+  {
+    link: 'https://rana-ecom-react.vercel.app',
+    title: 'Rana Cart',
+    techStack: 'Technology used: Javascript, Reactjs, Prisma, SASS, Context API',
+    desc: 'Audio Store eCommerce Website, built with React JS, state management using Context API.',
+    image: ranacart,
+    color: '#C1A4AA'
+    // githubLink: ''
+  },
+  {
+    link: '',
+    title: 'Campus Express',
+    techStack: 'Technology used: Javascript, Reactjs, Prisma, SASS, Context API',
+    desc: 'Audio Store eCommerce Website, built with React JS, state management using Context API.',
+    image: campusexpress,
+    color: '#f3e4f1'
     // githubLink: ''
   }
   
