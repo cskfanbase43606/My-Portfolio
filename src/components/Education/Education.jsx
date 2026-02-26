@@ -89,8 +89,8 @@ class Education extends Component {
                       <MdWork />
                     </div>
                     <div className={classes.label}>
-                      <h2>Internship</h2>
-                      <div className={classes.description}>Completed 2 months of Internship in React Js with Aeronspire Technology.</div>
+                      <h2>Work Experience</h2>
+                      <div className={classes.description}>Current working in a company named Campus Express as Web Developer with a work experience of 2.5 years.</div>
                     </div>
                     <div className={classes.timeline_entry_inner}>
                       <div className={classes.timeline_icon_3 || classes.color_none}></div>
