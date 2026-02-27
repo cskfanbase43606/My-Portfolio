@@ -41,6 +41,16 @@ const webItem = [
     color: '#0FFFFF'
     //githubLink: 'https://github.com/mittalsam98/profilee'
   },
+  
+  {
+    link: 'https://rana-ecom-react.vercel.app',
+    title: 'Rana Cart',
+    techStack: 'Technology used: Javascript, Reactjs, Prisma, SASS, Context API',
+    desc: 'Audio Store eCommerce Website, built with React JS, state management using Context API.',
+    image: ranacart,
+    color: '#D2E0FB'
+    // githubLink: ''
+  },
   {
     link: 'https://xbeat-rana.vercel.app/',
     title: 'XBeat App',
@@ -48,15 +58,6 @@ const webItem = [
     desc: 'Audio Store eCommerce Website, built with React JS, state management using Context API.',
     image: xbeat,
     color: '#FEA1A1'
-    // githubLink: ''
-  },
-  {
-    link: 'https://rana-ecom-react.vercel.app',
-    title: 'Rana Cart',
-    techStack: 'Technology used: Javascript, Reactjs, Prisma, SASS, Context API',
-    desc: 'Audio Store eCommerce Website, built with React JS, state management using Context API.',
-    image: ranacart,
-    color: '#C1A4AA'
     // githubLink: ''
   },
   {
